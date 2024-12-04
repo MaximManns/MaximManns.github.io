@@ -5,6 +5,10 @@ description: >-
 baseurl: ""
 url: "https://maximmanns.github.io"
 github_username: MaximManns
+linkedin_url: "https://www.linkedin.com/in/maxim-manns-28492282"
+xing_url: "https://www.xing.com/profile/Maxim_Manns"
+
+
 
 # Build settings
 theme: minima
