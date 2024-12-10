@@ -10,6 +10,6 @@ xing_url: "https://www.xing.com/profile/Maxim_Manns"
 
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
